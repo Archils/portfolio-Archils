@@ -2,9 +2,9 @@
 
 The first version of my developer portfolio, built with HTML and CSS.
 
-**Live demo:** https://archils.github.io/portfolio-Archils/
+**Live demo:** https://archo2.github.io/portfolio-Archils/
 
-> This is my earliest portfolio, kept for reference. See [Archils-Portfolio](https://github.com/Archils/Archils-Portfolio) for the current React version.
+> This is my earliest portfolio, kept for reference. See [Archils-Portfolio](https://github.com/Archo2/Archils-Portfolio) for the current React version.
 
 ## Built With
 
@@ -12,10 +12,10 @@ HTML · CSS · JavaScript
 
 ## How to Use
 
-Open the [live demo](https://archils.github.io/portfolio-Archils/) or open `index.html` in your browser.
+Open the [live demo](https://archo2.github.io/portfolio-Archils/) or open `index.html` in your browser.
 
 ## Author
 
 **Archils Oburu**
-- GitHub: [@Archils](https://github.com/Archils)
+- GitHub: [@Archo2](https://github.com/Archo2)
 - Email: oburuarchils@gmail.com
